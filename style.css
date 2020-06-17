@@ -1,0 +1,17 @@
+.image {
+  display: block;
+  width: 200px;
+  margin: 20px auto;
+  height: 200px;
+  border-radius: 50%;
+}
+.button {
+  width: 150px;
+  display: block;
+  margin: 20px auto;
+  background-color: red;
+  color: white;
+  padding: 8px 15px;
+  border: none;
+  font-size: 18px;
+}
