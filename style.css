@@ -27,6 +27,7 @@ select {
   display: flex;
   align-items: center;
   justify-content: center;
+  min-height: calc(100vh - 90px);
 }
 @keyframes spin {
   0% {
@@ -46,8 +47,7 @@ select {
   display: none;
 }
 .image {
-  display: block;
-  max-width: 80%;
+  max-width: 100%;
   margin: 30px auto;
   height: auto;
 }
